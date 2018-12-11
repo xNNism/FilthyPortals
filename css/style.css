@@ -1,0 +1,70 @@
+body {
+  font-family: 'Audiowide', 'Squada One';
+  background-color: #282828;
+}
+
+h2,
+h4,
+h5,
+h6 {
+  font-family: 'Audiowide';
+}
+
+h1 {
+  color: #fff;
+  font-size: 60px;
+  font-family: 'Audiowide';
+  /*
+  font-family: 'Unica One';
+  font-family: 'Press+Start+2P';
+  font-family: 'Unica One';
+  font-family: 'Audiowide';
+*/
+}
+
+h3 {
+  color: #fff;
+  text-align: center;
+  font-family: 'Audiowide';
+  font-size: 30px;
+}
+
+center{
+    color: #fff;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    align-content: center;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+footer {
+  font-size: 15px;
+  font-family: 'Roboto';
+  background-color: #282828;
+  text-align: center;
+}
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+color: white;
+background-color: transparent;
+text-decoration: underline;
+}
