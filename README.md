@@ -18,7 +18,7 @@
   
 ` $ cd /tmp/`
   
-` $ git clone https://github.com/xNNism/Pi-Panel`
+` $ git clone https://github.com/xNNism/Pi-Portal`
   
 ` $ sudo cp -r Pi-Panel/* /var/www/html/`
 
