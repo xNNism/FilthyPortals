@@ -20,5 +20,5 @@
   
 ` $ git clone https://github.com/xNNism/Pi-Portal`
   
-` $ sudo cp -r Pi-Panel/* /var/www/html/`
+` $ sudo cp -r Pi-Portal/* /var/www/html/`
 
